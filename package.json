@@ -6,6 +6,7 @@
   "scripts": {
     "e2e:chrome-visible": "cypress run --browser chrome --headed",
     "e2e:chrome": "cypress run --browser chrome"
+
   },
   "author": "",
   "license": "ISC",
